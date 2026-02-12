@@ -279,8 +279,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Sachin Goyal**
-- GitHub: [@SachinGoyal94](https://github.com/yourusername)
-- LinkedIn: [sachingoyal27](https://linkedin.com/in/yourprofile)
+- GitHub: [@SachinGoyal94](https://github.com/SachinGoyal94)
+- LinkedIn: [sachingoyal27](https://linkedin.com/in/sachingoyal27)
 
 ---
 
